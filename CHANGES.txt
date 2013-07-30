@@ -1,6 +1,11 @@
 Changelog
 =========
 
+0.2 (2013-07-30)
+--------------------
+- add a schema for folders
+- hide the creators schemata
+
 0.1 (2013-03-15)
 -------------------
 - initial release
