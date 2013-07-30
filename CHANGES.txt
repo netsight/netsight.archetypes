@@ -1,6 +1,10 @@
 Changelog
 =========
 
+0.3 (2013-07-30)
+--------------------
+- hide further fields on absolute_base_schema
+
 0.2 (2013-07-30)
 --------------------
 - add a schema for folders
