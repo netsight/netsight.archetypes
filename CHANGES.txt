@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.0 (2013-08-30)
+--------------------
+- hide categorization schemata
+
 0.3 (2013-07-30)
 --------------------
 - hide further fields on absolute_base_schema
